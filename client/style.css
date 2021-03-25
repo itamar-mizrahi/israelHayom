@@ -1,0 +1,24 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    font-family: 'SimplerPro';
+    color: #FFFFFF;
+    background: #2C2C2C;
+}
+
+*{
+    border-radius: 20px;
+}
+
+/*TODO: can be used as font with the woff file (require 'SimplerPro')
+ @font-face {
+    font-family: 'SimplerPro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SimplerPro'), url('SimplerPro.woff') format('woff');
+    }
+      */
+/*test

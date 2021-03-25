@@ -1,0 +1,14 @@
+{
+  "name": "isrealhayomproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"cd server&& npm run dev",
+    "server": "cd server&& npm start",
+    "client": "cd client&& npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
