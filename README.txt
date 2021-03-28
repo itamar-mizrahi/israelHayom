@@ -1,11 +1,9 @@
-
-על מנת להריץ את המטלה יש להריץ את הפקודה npm run client
-
+https://israelhayomtask.netlify.app/ קישור 
 
 
+על מנת להריץ את המטלה לוקאלית יש להריץ את הפקודה 
 
-
-
+npm run client
 
 
 
